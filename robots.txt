@@ -1,4 +1,4 @@
-# Public personal project homepage. No private application is hosted here.
+# Public Anagnoraxis brand and service navigation.
 User-agent: *
 Allow: /
 

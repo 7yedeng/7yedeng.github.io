@@ -1,14 +1,26 @@
 # Anagnoraxis
 
-> 个人 AI 辅助建站与工具实践首页。主要内容为项目入口和从需求、内容核对到验证、发布与维护的建站方法。
+> AI 研究、工具实践与订阅服务的公开入口。
 
-## Public pages
+## Main websites
 
-- [个人建站实践首页](https://7yedeng.github.io/): 项目导航与建站工作顺序。
-- [个人网站](https://anagnoraxis.com/): 研究笔记、工具实践与长期记录。
-- [GitHub](https://github.com/7yedeng): 公开代码与项目说明。
-- [AI 订阅商城](https://shop.anagnoraxis.com/): 独立商品与交付说明，交易流程不在本静态站托管。
+- [Anagnoraxis 品牌首页](https://7yedeng.github.io/): AI 工具、研究与订阅服务导航。
+- [ChatGPT 订阅购买与核销指南](https://7yedeng.github.io/guides/chatgpt-subscription.html): 账号检查、付款渠道、卡密领取、兑换期限、预订与售后。
+- [Anagnoraxis 主站](https://anagnoraxis.com/): AI 工具、研究笔记与开发实践。
+- [Anagnoraxis Shop](https://shop.anagnoraxis.com/): AI 订阅商品与服务说明。
+- [商品中心](https://shop.anagnoraxis.com/products): 当前商品、规格、价格与库存。
 
-## Scope
+## ChatGPT subscriptions
 
-此文件只是公开导航，不是访问授权或索引、排名、AI 引用保证。使用具体项目时，请核对对应页面的当前说明与版本。
+- [ChatGPT Plus · 1个月](https://shop.anagnoraxis.com/products/chatgpt-plus-month)
+- [ChatGPT Pro 100 · 1个月](https://shop.anagnoraxis.com/products/chatgpt-pro100-month)
+- [ChatGPT Pro 200 · 1个月](https://shop.anagnoraxis.com/products/chatgpt-pro200-month)
+- [ChatGPT Pro 500 · 人工预订](https://shop.anagnoraxis.com/products/chatgpt-pro500-month)
+
+## Purchase and support
+
+- [购买、兑换与退款说明](https://shop.anagnoraxis.com/terms)
+- [联系支持](https://shop.anagnoraxis.com/about)
+- [自助充值入口](https://qianyeit.com/#redeem)
+
+Anagnoraxis Shop 提供独立服务，并非 OpenAI 官方网站。当前商品条件、价格、库存、支付和交付以商城说明为准。
